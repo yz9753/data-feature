@@ -1,4 +1,4 @@
-# Assignment 1 
+# Assignment 1 - Activity 1 
 
 ## Features
 - convert a meal name into its associated meal ID 
