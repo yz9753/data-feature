@@ -1,10 +1,10 @@
-#Assignment 1 
+# Assignment 1 
 
-##Features
+## Features
 - convert a meal name into its associated meal ID 
 - searches for related meal recipes and returns the top one result and generates the URL, ingredients, calories and calculates the total calories 
 
-##Prerequisites 
+## Prerequisites 
 
 To run this notebook, you need to set up API keys for:
 
