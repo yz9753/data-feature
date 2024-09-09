@@ -18,7 +18,7 @@ To run this notebook, you need to set up API keys for:
   
 Make sure to add these API keys to the SECRETS tab in Google Colab.
 
-**Note: Make sure to insert the API Key for Spoonacular API and the API ID and Key for nutritionIX API (in'x-app-id' and 'x-app-key' under the 'get_calories' function). This information can be found in the lytspace assignment submission description :)** 
+**Note: Make sure to insert the API ID for nutritionIX API in'x-app-id' under the 'get_calories' function (This information can be found in the lytspace assignment submission description)** 
 
 
 ## Usage
